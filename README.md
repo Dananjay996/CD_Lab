@@ -1,14 +1,14 @@
 # CD_Lab
 # CD_Lab
 
-#Lex compilation
+# Lex compilation
 ```
 lex filename.l
 gcc lex.yy.c
 ./a.out
 
 ```
-#Terminal Using C
+# Terminal Using C
 ``` 
 #include <stdio.h>
 #include <stdlib.h>
